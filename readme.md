@@ -4,10 +4,7 @@ A simple bird sound recognition game built with Python.
 
 ## Features
 
-- Play bird sounds
-- Guess the correct bird
-- Simple and fun gameplay
-- Built as a learning project
+- Play kicau mania sounds
 
 ## Installation
 
@@ -32,3 +29,15 @@ Created by Clara ✨
 @datawithclara
 
 Thanks for checking out this project!
+
+---
+
+## Want to Build Your Own Data Analysis Portfolio?
+
+If you're interested in learning how to create a professional data analysis portfolio, dashboard projects, and case studies that stand out, check out my data analysis classes and learning resources.
+
+<p align="center">
+  <img src="assets/data-analysis-class-poster.png" alt="Data Analysis Class by Clara" width="700">
+</p>
+
+Follow @datawithclara for upcoming classes and portfolio-building resources.
