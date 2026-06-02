@@ -37,7 +37,7 @@ Thanks for checking out this project!
 If you're interested in learning how to create a professional data analysis portfolio, dashboard projects, and case studies that stand out, check out my data analysis classes and learning resources.
 
 <p align="center">
-  <img src="assets/data-analysis-class-poster.png" alt="Data Analysis Class by Clara" width="700">
+  <img src="data-analysis-class-poster.png" alt="Data Analysis Class by Clara" width="700">
 </p>
 
 Follow @datawithclara for upcoming classes and portfolio-building resources.
